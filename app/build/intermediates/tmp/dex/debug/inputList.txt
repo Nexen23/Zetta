@@ -1,0 +1,2 @@
+E:\Projects\Java\AndroidStudio\Zetta\app\build\intermediates\classes\debug
+E:\Projects\Java\AndroidStudio\Zetta\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-72fb88aa88e0db7c938d1528d75f12b9cfae6dad.jar
